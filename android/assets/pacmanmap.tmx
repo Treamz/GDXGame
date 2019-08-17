@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.2.4" orientation="orthogonal" renderorder="right-down" width="32" height="32" tilewidth="32" tileheight="32" infinite="0" nextlayerid="3" nextobjectid="1">
+
+ <tileset firstgid="1" version="1.2" tiledversion="1.2.4" name="mappacman" tilewidth="32" tileheight="32" tilecount="1064" columns="8">
+  <image source="mappacman.png" width="256" height="4256"/>
+ </tileset>
+
+ <layer id="1" name="Слой тайлов 1" width="32" height="32">
+  <data encoding="base64" compression="zlib">
+   eJztwwEJAAAMA6A9zvoXXI+jYC+pqqqq+voAqs+oAQ==
+  </data>
+ </layer>
+ <layer id="2" name="Слой тайлов 2" width="32" height="32">
+  <data encoding="base64" compression="zlib">
+   eJzt17ENACAMA0GDGIz9t0mLUpAtvnlLrq0rXcktsGcFy5s2N589dv3cvn79+rno16+f29evXz8X/frnA6P9DF5iIw==
+  </data>
+ </layer>
+</map>
